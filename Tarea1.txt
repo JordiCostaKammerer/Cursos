@@ -1,0 +1,128 @@
+Tasca per a DAW01
+Oberta el dimarts, 10 octubre 2023, 00:00
+Venciment: diumenge, 12 novembre 2023, 23:55
+Tarea para DAW01.
+Detalles de la tarea de esta unidad.
+Enunciado.
+
+1-Instal·lació d’una màquina virtual amb Ubuntu 20.04
+Instal·lació de VirtualBox, VMWare o similar: https://www.leninalbertop.com.ve/como-instalar-virtualbox-windows10/
+
+
+Instal·lació de Ubuntu 20.04 (Desktop image): https://releases.ubuntu.com/20.04/
+
+
+
+
+
+2-Instal·lació del servidor web Apache
+És precís realitzar les passes indicades a continuació:
+
+Instal·lar el servidor web Apache des terminal.
+
+Comprovar que està funcionant el servidor Apache des terminal.
+
+Comprovar que està funcionant el servidor Apache des de navegador.
+
+Canviar el port pel qual està escoltant Apache passant-lo a port 82.
+
+Canviar el port pel qual està escoltant Apache passant-lo a port 80 de nou.
+
+Canvia index.html pel següent codi:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html>
+<head>
+<title>DAW - Desplegament de pàgines web </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+<h1 align="center" >NOM COMPLET ALUMNE/A </h1>
+<hr>
+<p>S'ha generat la primera pàgina d'Apache de l'assignatura DAW</p>
+<img src="https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.svg" alt="Girl in a jacket" width="500" height="600">
+</body>
+</html> 
+
+
+3-Instal·lació del servidor d’aplicacions Tomcat
+És precís realitzar les passes indicades a continuació:
+
+Instal·lar el servidor d'aplicacions Tomcat des terminal
+
+Comprovar que està funcionant el servidor Tomcat des terminal.
+
+Comprovar que està funcionant el servidor Tomcat des de navegador.
+
+Canvia index.html pel següent codi
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html>
+<head>
+<title>DAW - Desplegament de pàgines web </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+<h1 align="center" >NOM COMPLET ALUMNE/A </h1>
+<hr>
+<p>S'ha generat la primera pàgina de Tomcat de l'assignatura DAW</p>
+<img src="https://blog.basefarm.com/wp-content/uploads/2020/06/cat-1199937_1920-845x321.jpg" alt="Tomcat" width="500" height="600">
+</body>
+</html> 
+
+
+Lliurament i qualificació. Total 10 puntos.
+
+Punt 1 (2 punts)
+
+És necessari entregar un manual en PDF resumint els principals punts en la instal·lació de la màquina virtual. Les imatges del manual han d’estar agafades del teu ordenador. Per a la realització del manual, recorda seguir les indicacions de l’apartat “Normas de entregas de trabajos” de la secció “General”.
+
+
+Punt 2 (3 punts)
+
+És necessari entregar un manual en PDF resumint els principals punts en la instal·lació d’Apache. Les imatges del manual han d’estar agafades del teu ordenador. Per a la realització del manual, recorda seguir les indicacions de l’apartat “Normas de entregas de trabajos” de la secció “General”.
+
+
+Punt 3 (3 punts)
+
+És necessari entregar un manual en PDF resumint els principals punts en la instal·lació de Tomcat. Les imatges del manual han d’estar agafades del teu ordenador. Per a la realització del manual, recorda seguir les indicacions de l’apartat “Normas de entregas de trabajos” de la secció “General”.
+
+
+
+Per tal de poder demostrar que les imatges s’han agafat del propi ordenador, és precís entregar un vídeo de entre 5-10 segons on es demostri que una o dues imatges pròpies s’han inserit al PDF.
+
+
+Presentació (1 punt)
+
+S’ha d’entregar un document comprimit .RAR o .ZIP amb els següents documents:
+
+document_pdf_punt_1
+
+video_demostratiu_punt_1
+
+document_pdf_punt_2
+
+video_demostratiu_punt_2
+
+document_pdf_punt_3
+
+video_demostratiu_punt_3
+
+
+Extra (1 punt)
+
+Es valora que l’alumne/a realitzi canvis de millora en els documents HTML indicats per als punts 2 i 3. Per exemple: emprant bootstrap, CSS o similar.
+
+Recursos necesarios para realizar la Tarea.
+Computador con conexión a Internet.
+Gestor de máquinas virtuales tipo Virtual Box.
+Máquina virtual con distribución Ubuntu 20.04.
+Consejos y recomendaciones.
+Incluye la pregunta que se formula antes de cada una de las respuestas.
+Detalla las respuestas de una forma estructurada, e intenta razonar y explicar de forma clara las decisiones adoptadas.
+Ten en cuenta que para los ejercicios prácticos existen varias respuestas posibles, siendo todas ellas válidas.
+A tenir en compte.
+En cas de que els vídeos siguin massa pesats, posar-se en contacte amb el professor per cercar alternatives d’entrega. 
+
+Qualsevol entrega fora de plaç, és considerada un zero.
